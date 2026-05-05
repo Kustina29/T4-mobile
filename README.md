@@ -24,4 +24,4 @@ Alasan penggunaan SharedPreferences adalah karena metode ini ringan, mudah digun
 Selama proses pengembangan, terdapat beberapa kendala, seperti error pada pengaturan Bottom Navigation, fragment yang tidak muncul, serta kesalahan penempatan file menu XML yang menyebabkan aplikasi gagal berjalan.
 Kendala tersebut diatasi dengan memastikan struktur folder sudah benar (menu, layout, drawable), melakukan pengecekan kembali pada ID di XML dan Kotlin, serta melakukan rebuild project agar resource dikenali oleh sistem Android Studio. Selain itu, debugging juga dilakukan untuk memastikan setiap fragment terhubung dengan benar melalui MainActivity.
 
-Sebelumnya mohon maaf saya cuma bisa kerjakan Hands-on 1 karena kendala laptop, laptop saya nge-lag pak dan sempat ngfreez juga, jadi saya kerjakan sebisa saya, karena takut nanti malah tidak kekumpul, mohon maaf sekali lagi🙏
+Sebelumnya mohon maaf saya cuma bisa kerjakan Hands-on 1 karena kendala laptop, laptop saya nge-lag pak dan sempat ngfreez juga, tapi saya kerjakan sebisa saya dan sebisa laptop saya, karena takut nanti malah tidak kekumpul, mohon maaf sekali lagi🙏
